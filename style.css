@@ -1,0 +1,23 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 100;
+}
+.To{
+    color: rgba(119, 4, 78, 0.671);
+}
+.cooking{
+    color: darkmagenta;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
