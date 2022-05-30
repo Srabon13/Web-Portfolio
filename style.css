@@ -47,6 +47,14 @@ section{
     color: white;
     font-weight: 700;
 }
+.youtube-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(137, 43, 6), rgb(226, 195, 190));
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
 .dream-area{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
@@ -79,6 +87,77 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue cyan);
     border-image-slice: 1;
+}
+.center{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.Ingridient{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 50%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+    background-color: white;
+    
+}
+.Cooking{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 50%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+    background-color: white;
+}
+#Ingridient-class{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon tomato);
+    border-image-slice: 1;
+}
+#Cooking-class{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue cyan);
+    border-image-slice: 1;
+}
+#Benu{
+    color: blue;
+}
+
+.long-pic img{
+   
+   width: 25%;  
+}
+#small-pic{
+    width: 25%;
+}
+.Benu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkred;
+}
+span{
+    color: hotpink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ELements{
+    color: black;
+    text-align: center;
+}
+.Element{
+    color: black;
+    text-align: center;
+}
+.example-cooking{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.footer-last{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 footer p{
     text-align: center;
